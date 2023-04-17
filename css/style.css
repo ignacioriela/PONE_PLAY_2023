@@ -1,0 +1,8 @@
+
+/*Eliminamos los margenes y paddings que agrega el navegador por defecto*/
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #09337f;
+
+  }
